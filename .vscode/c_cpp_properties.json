@@ -1,0 +1,51 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ],
+      "compilerPath": "C:/mingw64/bin/gcc.exe",
+      "compilerPathInCppPropertiesJson": "C:/mingw64/bin/gcc.exe",
+      "mergeConfigurations": false,
+      "browse": {
+        "path": [
+          "c:/Users/User/codeforces/**",
+          "c:/Users/User/codeforces"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    },
+    {
+      "name": "Win32",
+      "includePath": [
+        ""
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "${default}",
+      "macFrameworkPath": [],
+      "mergeConfigurations": false,
+      "compilerPath": "C:/mingw64/bin/gcc.exe",
+      "browse": {
+        "path": [
+          "",
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      }
+    }
+  ],
+  "version": 4
+}
